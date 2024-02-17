@@ -8,40 +8,34 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution{
-public:
-    ListNode* mergeFunction(ListNode* temp1, ListNode* temp2){
-        if(!temp1) return temp2;
-        if(!temp2) return temp1;
-        ListNode* ans = new ListNode(-1);
-        ListNode* move = ans;
-        while(temp1 && temp2){
-            if(temp1->val < temp2->val){
-                ans->next = temp1;
-                ans = ans->next;
-                temp1 = temp1->next;
-            }
-            else{
-                ans->next = temp2;
-                ans = ans->next;
-                temp2 = temp2->next;
-            }
-        }
-        while(temp1){
-            ans->next = temp1;
-            ans = ans->next;
-            temp1 = temp1->next;
-        }
-        while(temp2){
-            ans->next = temp2;
-            ans = ans->next;
-            temp2 = temp2->next;
-        }
-        return move->next;
+
+struct compare {
+    bool operator()(ListNode* a, ListNode* b) {
+        return a->val > b->val;
     }
-    ListNode* mergeKLists(vector<ListNode*>& lists){
-        ListNode* ans = new ListNode(-100000);
-        for(int i = 0; i < lists.size(); i++) ans = mergeFunction(ans, lists[i]);
-        return ans->next;
+};
+
+class Solution {
+public:
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        priority_queue<ListNode*, vector<ListNode*>, compare> pq;
+
+        for (int i = 0; i < lists.size(); i++) if(lists[i]) pq.push(lists[i]);
+
+        if(pq.empty()) return NULL;
+
+        struct ListNode *dummy = new ListNode(0);
+        struct ListNode *last = dummy;
+
+        while (!pq.empty()){
+            struct ListNode* curr = pq.top();
+            pq.pop();
+
+            last->next = curr;
+            last = last->next;  
+
+            if (curr->next) pq.push(curr->next);
+        }
+        return dummy->next;
     }
 };
