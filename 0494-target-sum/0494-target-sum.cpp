@@ -1,11 +1,13 @@
 class Solution {
 public:
-    int recc(vector<int>& nums, int t, int i) {
+    int recc(vector<int>& nums, int t, int i, map<pair<int, int>, int> &dp) {
         if(i==nums.size()) return t==0;
-        return recc(nums, t-nums[i], i+1) + recc(nums, t+nums[i], i+1);
+        if(dp.count({t, i})) return dp[{t, i}];
+        return dp[{t, i}] = recc(nums, t-nums[i], i+1, dp) + recc(nums, t+nums[i], i+1, dp);
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-        return recc(nums, target, 0);
+        map<pair<int, int>, int> dp;
+        return recc(nums, target, 0, dp);
     }
 };
 
