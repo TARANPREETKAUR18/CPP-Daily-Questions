@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,18 +39,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Greedy
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 <!---LeetCode Topics End-->
