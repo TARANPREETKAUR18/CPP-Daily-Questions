@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,12 +37,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Greedy
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
