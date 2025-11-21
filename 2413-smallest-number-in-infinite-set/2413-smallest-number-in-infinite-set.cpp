@@ -2,8 +2,7 @@ class SmallestInfiniteSet {
 public:
     int currSmallest;
     //current smallest ko point karenga
-    unordered_set<int> st;
-    priority_queue<int, vector<int>, greater<int>> pq;
+    set<int> st;
 
     SmallestInfiniteSet() {
         currSmallest = 1;
@@ -12,10 +11,9 @@ public:
     int popSmallest() {
         int result;
         //i++ nhi karenge
-        if(!pq.empty()){
-            result = pq.top();
-            pq.pop();
-            st.erase(result);
+        if(!st.empty()){
+            result = *st.begin();
+            st.erase(st.begin());
         }
         else{
             result = currSmallest;
@@ -27,7 +25,6 @@ public:
     void addBack(int num) {
         if(num >= currSmallest || st.find(num) != st.end()) return;
         st.insert(num);
-        pq.push(num);
     }
 };
 
