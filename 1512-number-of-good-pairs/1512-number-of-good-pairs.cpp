@@ -4,11 +4,17 @@ public:
         int result = 0;
         int n = nums.size();
 
-        for(int i = 0; i < n-1; i++){
-            for(int j = i+1; j < n; j++){
-                if(nums[i] == nums[j]) result++;
-            }
+        unordered_map<int, int> mp;
+
+        for(int &num: nums){
+            mp[num]++;
         }
+
+        for(auto &it: mp){
+            int count = it.second;
+            result += count*(count-1)/2;
+        }
+        
         return result;
     }
 };
