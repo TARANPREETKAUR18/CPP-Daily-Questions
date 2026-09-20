@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 | [1319-unique-number-of-occurrences](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1319-unique-number-of-occurrences) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -143,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
