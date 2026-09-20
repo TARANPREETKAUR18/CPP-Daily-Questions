@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 | [1319-unique-number-of-occurrences](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1512-number-of-good-pairs) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 | [1319-unique-number-of-occurrences](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2413-smallest-number-in-infinite-set](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/2413-smallest-number-in-infinite-set) |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Stack
@@ -125,4 +129,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
