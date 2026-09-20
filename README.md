@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0009-palindrome-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1512-number-of-good-pairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Stack
@@ -133,4 +135,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
