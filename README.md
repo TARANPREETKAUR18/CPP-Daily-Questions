@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1401-circle-and-rectangle-overlapping](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3524-find-x-value-of-array-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3524-find-x-value-of-array-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
