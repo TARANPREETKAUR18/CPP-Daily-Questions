@@ -10,19 +10,23 @@ public:
         }
 
         string result = "";
+        string temp = "";
+        bool bracketOpened = false;
         int i = 0;
+        
         while(i < n) {
-            if(isalpha(s[i])) {
-                result.push_back(s[i]);
-            } else { //(
-                i++;
-                string temp = "";
-                while(i < n && s[i] != ')') {
-                    temp.push_back(s[i]);
-                    i++;
-                }
+            if(s[i] == '(') {
+                bracketOpened = true;
+            } else if(s[i] == ')') {
                 result += mp.count(temp) ? mp[temp] : "?";
+                bracketOpened = false;
+                temp = "";
+            } else if(bracketOpened) {
+                temp.push_back(s[i]);
+            } else {
+                result.push_back(s[i]);
             }
+
             i++;
         }
 
