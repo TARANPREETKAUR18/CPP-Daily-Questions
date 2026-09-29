@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3524-find-x-value-of-array-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3524-find-x-value-of-array-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Stack
@@ -189,4 +191,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
