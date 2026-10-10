@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3524-find-x-value-of-array-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-brace-expansion-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## String
 | Problem Name | Difficulty |
@@ -149,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2413-smallest-number-in-infinite-set](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Bucket Sort
 | Problem Name | Difficulty |
