@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3524-find-x-value-of-array-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2413-smallest-number-in-infinite-set](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -254,4 +257,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
