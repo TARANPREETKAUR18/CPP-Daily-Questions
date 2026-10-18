@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0009-palindrome-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -268,4 +272,32 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
