@@ -1,11 +1,16 @@
 class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
-        int n = nums.size();
-        sort(begin(nums), end(nums));
+        int count = 0;  // Number of elements less than target
+        for (int &num : nums) {
+            if (num < target) count++;
+        }
         vector<int> result;
-        for(int i = 0; i < n; i++) {
-            if(nums[i] == target) result.push_back(i);
+        for (int& num : nums) {
+            if (num == target) {
+                result.push_back(count);
+                count++;
+            }
         }
         return result;
     }
