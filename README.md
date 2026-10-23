@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
+| [0990-satisfiability-of-equality-equations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-unique-number-of-occurrences](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -305,4 +308,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 <!---LeetCode Topics End-->
