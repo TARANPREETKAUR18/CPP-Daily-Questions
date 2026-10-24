@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0301-remove-invalid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-satisfiability-of-equality-equations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,8 +319,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 <!---LeetCode Topics End-->
