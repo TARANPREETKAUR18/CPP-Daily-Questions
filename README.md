@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Depth-First Search
@@ -343,8 +344,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0827-making-a-large-island](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0827-making-a-large-island/) | Hard |
+| [1192-critical-connections-in-a-network](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Bridge (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
