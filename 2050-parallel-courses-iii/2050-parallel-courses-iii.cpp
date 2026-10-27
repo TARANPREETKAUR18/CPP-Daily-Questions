@@ -1,33 +1,45 @@
 class Solution {
 public:
-    int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
-        vector<vector<int>> graph(n + 1);
-        vector<int> indegree(n + 1, 0);
-        for (const auto& relation : relations) {
-            int prevCourse = relation[0];
-            int nextCourse = relation[1];
-            graph[prevCourse].push_back(nextCourse);
-            indegree[nextCourse]++;
-        }
-        queue<int> q;
-        vector<int> earliestStart(n + 1, 0);
+    vector<vector<int>> adjacencyList;  // Adjacency list to represent the course prerequisites
+    vector<int> inDegrees;  // In-degree of each course (number of prerequisites)
+
+    // Kahn's Algorithm(BFS) - Topological Sort
+    int calculateMinimumTime(int n, vector<int>& time) {
+        vector<int> waitTime(n + 1) ; // keep track of wait time for each course
+        queue<int> q;  // queue for topological sort
+        int maxWaitTime = 0;  // Maximum wait time for completing all courses
+        // Initialize the queue with courses that have no prerequisites
         for (int i = 1; i <= n; i++) {
-            if (indegree[i] == 0) {
+            if (inDegrees[i] == 0) {
                 q.push(i);
-                earliestStart[i] = 0;
+                waitTime[i] = time[i - 1] ;
+                maxWaitTime = max(maxWaitTime, waitTime[i]);
             }
         }
-        int minTime = 0;
+        // Perform topological sort
         while (!q.empty()) {
-            int course = q.front();
+            int currentCourse = q.front();
             q.pop();
-            minTime = max(minTime, earliestStart[course] + time[course - 1]);
-            for (int nextCourse : graph[course]) {
-                indegree[nextCourse]--;
-                earliestStart[nextCourse] = max(earliestStart[nextCourse], earliestStart[course] + time[course - 1]);
-                if (indegree[nextCourse] == 0) q.push(nextCourse);
+            // Process each course that depends on the current course
+            for (auto childCourse : adjacencyList[currentCourse]) {
+                inDegrees[childCourse]--;
+                waitTime[childCourse] = max(time[childCourse - 1] + waitTime[currentCourse], waitTime[childCourse]);
+                maxWaitTime = max(maxWaitTime, waitTime[childCourse]);
+                // If all prerequisites are completed, update the wait time and add to the queue
+                if (inDegrees[childCourse] == 0) q.push(childCourse);
             }
         }
-        return minTime;
+        return maxWaitTime;
+    }
+    int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
+        adjacencyList.resize(n + 1);
+        inDegrees.resize(n + 1);
+        // Build the adjacency list and calculate in-degrees for each course
+        for (int i = 0; i < relations.size(); i++) {
+            auto prerequisitePair = relations[i];
+            adjacencyList[prerequisitePair[0]].push_back(prerequisitePair[1]);
+            inDegrees[prerequisitePair[1]]++;
+        }
+        return calculateMinimumTime(n, time);
     }
 };
