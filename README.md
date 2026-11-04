@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Memoization
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -402,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0684-redundant-connection](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0827-making-a-large-island](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0827-making-a-large-island/) | Hard |
