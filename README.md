@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -402,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0133-clone-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0210-course-schedule-ii/) | Medium |
