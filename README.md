@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-unique-number-of-occurrences](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1512-number-of-good-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -101,10 +102,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -119,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
