@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0200-number-of-islands/) | Medium |
+| [0403-frog-jump](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0403-frog-jump/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
+| [0403-frog-jump](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0403-frog-jump/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
