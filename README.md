@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
+| [1882-process-tasks-using-servers](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2413-smallest-number-in-infinite-set](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
