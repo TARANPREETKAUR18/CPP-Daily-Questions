@@ -1,33 +1,34 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    int widthOfBinaryTree(TreeNode* root){
-        if(!root) return 0;
-        queue<pair<TreeNode*, unsigned long long int>> q;
-        q.push({root, 0});
-        int width = 0;
-        while(!q.empty()){
-            unsigned long long int left = q.front().second, right = 0;
-            int size = q.size();
-            while(size-- > 0){
-                pair<TreeNode*, unsigned long long int> rNode = q.front();
+    int widthOfBinaryTree(TreeNode* a) {
+        vector<int> v;
+        if(!a) return 0;
+        int ans = 1;
+        queue<pair<TreeNode*,long long int>> q;
+        q.push({a, 0});
+        while(!q.empty()) {
+            int sz = q.size();
+            int a1 = 0, b1 = 0;
+            int l = 0;
+            int mn = q.front().second;
+            for(int i = 0; i < sz; i++) {
+                auto p = q.front();
+                TreeNode* b = p.first;
+                // To avoid integer overflow,
+                // we modify all the address values with 
+                // respect to leftmost tree address value.
+                long long int k = p.second - mn;
                 q.pop();
-                right = rNode.second;
-                if (rNode.first->left) q.push({rNode.first->left, 2 * rNode.second + 1});
-                if (rNode.first->right) q.push({rNode.first->right, 2 * rNode.second + 2});
+                // leftmost node
+                if(i == 0) a1 = k;
+                // rightmost node
+                if(i == sz-1) b1 = k;
+                if(b->left) q.push({b->left, 2*k+1});
+                if(b->right) q.push({b->right, 2*k+2});
             }
-            width = max(width, int(right - left + 1));
+            // To store maximum difference.
+            ans = max(ans,b1-a1+1);
         }
-        return width;
+        return ans;        
     }
 };
