@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0310-minimum-height-trees](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0310-minimum-height-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0721-accounts-merge/) | Medium |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0210-course-schedule-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0310-minimum-height-trees](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0684-redundant-connection/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1192-critical-connections-in-a-network/) | Hard |
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0310-minimum-height-trees](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0310-minimum-height-trees) |
 | [0437-path-sum-iii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0684-redundant-connection/) | Medium |
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0310-minimum-height-trees](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0310-minimum-height-trees) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Directed Acyclic Graph
