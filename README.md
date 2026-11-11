@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
