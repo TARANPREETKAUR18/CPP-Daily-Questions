@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
