@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0242-valid-anagram](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0290-word-pattern) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0721-accounts-merge/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0721-accounts-merge/) | Medium |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2747-count-zero-request-servers/) | Medium |
