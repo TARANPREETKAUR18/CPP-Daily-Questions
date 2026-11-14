@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0133-clone-graph/) | Medium |
+| [0242-valid-anagram](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0290-word-pattern) |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0721-accounts-merge/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0056-merge-intervals/) | Medium |
+| [0242-valid-anagram](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0721-accounts-merge/) | Medium |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0126-word-ladder-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0127-word-ladder/) | Hard |
+| [0242-valid-anagram](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
