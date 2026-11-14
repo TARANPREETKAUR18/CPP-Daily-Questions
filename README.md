@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0213-house-robber-ii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0403-frog-jump](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0403-frog-jump/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -507,9 +510,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
