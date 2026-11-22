@@ -1,6 +1,6 @@
 class Solution {
 public:
     bool checkString(string s) {
-        return s.find("ba") == string::npos;
+        return is_sorted(begin(s), end(s));
     }
 };
