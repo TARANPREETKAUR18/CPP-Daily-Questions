@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0046-permutations) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0126-word-ladder-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0133-clone-graph/) | Medium |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0051-n-queens/) | Hard |
@@ -403,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0200-number-of-islands](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0827-making-a-large-island](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0827-making-a-large-island/) | Hard |
 | [0994-rotting-oranges](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0994-rotting-oranges/) | Medium |
@@ -604,5 +608,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0051-n-queens/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
