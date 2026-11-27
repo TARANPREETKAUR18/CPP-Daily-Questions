@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0009-palindrome-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -25,8 +25,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0037-sudoku-solver/) | Hard |
@@ -97,8 +97,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3934-smallest-unique-subarray](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0126-word-ladder-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0126-word-ladder-ii/) | Hard |
@@ -130,16 +130,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3934-smallest-unique-subarray](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -148,8 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0242-valid-anagram/) | Easy |
@@ -168,8 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
@@ -194,8 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3882-minimum-xor-path-in-a-grid](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
@@ -212,15 +212,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -234,8 +234,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -268,12 +268,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3498-reverse-degree-of-a-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0912-sort-an-array/) | Medium |
@@ -284,43 +284,43 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0692-top-k-frequent-words) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1512-number-of-good-pairs](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/1512-number-of-good-pairs) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2413-smallest-number-in-infinite-set](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2413-smallest-number-in-infinite-set](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -330,32 +330,32 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0056-merge-intervals/) | Medium |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0039-combination-sum) |
@@ -367,8 +367,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0301-remove-invalid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0133-clone-graph/) | Medium |
@@ -389,8 +389,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -404,8 +404,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0200-number-of-islands](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0827-making-a-large-island](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0827-making-a-large-island/) | Hard |
@@ -416,30 +416,30 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3665-twisted-mirror-path-count](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0090-subsets-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -450,8 +450,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0684-redundant-connection](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0721-accounts-merge/) | Medium |
@@ -463,20 +463,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -486,12 +486,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Fermat's Little Theorem
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0133-clone-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0210-course-schedule-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0310-minimum-height-trees) |
@@ -504,8 +504,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0133-clone-graph](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0200-number-of-islands/) | Medium |
@@ -527,91 +527,91 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3331-find-subtree-sizes-after-changes](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Biconnected Component
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 ## Bridge (Graph)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 ## Bidirectional Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0127-word-ladder/) | Hard |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0310-minimum-height-trees) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Directed Acyclic Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Binary Lifting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Lowest Common Ancestor
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3934-smallest-unique-subarray](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Suffix Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3934-smallest-unique-subarray](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3934-smallest-unique-subarray](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Algorithm X
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0051-n-queens/) | Hard |
 ## Dancing Links
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
