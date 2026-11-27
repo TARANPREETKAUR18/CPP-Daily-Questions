@@ -1,30 +1,21 @@
 class Solution {
-    vector<vector<int>> answer;
-    vector<int> ans;
-    vector<bool> isVisited;
-    void solve(vector<int>& nums, int& n){
-        if(ans.size()==n){
-            answer.push_back(ans);
-            return;
+public:
+    vector<vector<int>> result;
+    void backtrack(vector<int> &nums,int i,int n){
+        if(i==n){
+            result.push_back(nums);
+            return ;
         }
-        for(int i=0; i<n; i++){
-            if(isVisited[i])
-                continue;
-            ans.push_back(nums[i]);
-            isVisited[i]=true;
-            solve(nums, n);
-            ans.pop_back();
-            isVisited[i]=false;
+        for(int j=i;j<=n;j++){
+            swap( nums[i],nums[j]);
+            backtrack(nums,i+1,n);
+            swap( nums[i],nums[j]);
         }
     }
-public:
-    vector<vector<int>> permute(vector<int>& nums) {
-        answer = {};
-        ans={};
-        int n=nums.size();
-        isVisited=vector<bool>(n, false);
-        solve(nums, n);
-        return answer;        
+    vector<vector<int>> permute(vector<int>& nums) {      
+        backtrack(nums,0,nums.size()-1);
+        return result;
     }
 };
-//original solution: https://leetcode.com/problems/permutations/solutions/1257633/backtracking-solution-c-easy-to-understa-cey0/comments/1298625/
+//original backtracking solution: https://leetcode.com/problems/permutations/solutions/1257633/backtracking-solution-c-easy-to-understa-cey0/comments/1298625/
+//swapping solution: https://leetcode.com/problems/permutations/solutions/1257633/backtracking-solution-c-easy-to-understa-cey0
