@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0090-subsets-ii) |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0126-word-ladder-ii/) | Hard |
@@ -599,4 +601,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0912-sort-an-array/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/TARANPREETKAUR18/CPP-Daily-Questions/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
